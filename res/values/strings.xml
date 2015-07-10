@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mars Rover</string>
+    <string name="rover_input">Input</string>
+    <string name="rover_input_load">Load...</string>
+    <string name="rover_input_load_file">Choose File Browser</string>
+    <string name="rover_input_default">5 5
+\n1 2 N
+\nLMLMLMLMM
+\n3 3 E
+\nMMRMMRMRRM</string>
+    <string name="rover_run">Run!</string>
+    <string name="rover_output">Output</string>
+</resources>
