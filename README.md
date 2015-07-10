@@ -43,6 +43,6 @@ source: http://withouttheloop.com/articles/2015-04-17-mars-rover/
 
 # my solution
 
-This is an android version of the marsrover problem that I did for a job interview. 
+This is an Android version of the marsrover problem that I did for a job interview. It's all original as, in spite of the problem being very well-known, I felt that looking at other solutions before starting would be cheating (plus, it's pretty easy, I mean, how shit would you have to be to get it wrong...). 
 
-I guess don't copy this code because it was cited as the reason for me being rejected for the role. Feel free to review and tell me how terrible I am at programming in the bug tracker because, aside from the lack of testing (yes, I only wrote one) and comments (yes, I wrote none), I really can't see anything wrong with it. 
+Copy this code at your own risk as it was cited as the reason for me being rejected for the role. Feel free to review and tell me how terrible I am at programming in the bug tracker because, aside from the lack of testing (yes, I only wrote one) and comments (yes, I wrote none), I really can't see anything wrong with it. 
